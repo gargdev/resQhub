@@ -44,7 +44,7 @@ resQhub is a platform designed to facilitate efficient collaboration between res
 - MongoDB (for database, if applicable)
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Your Name](https://github.com/gargdev)
 - [Contributor Name](https://github.com/contributorusername)
 
 ## License
